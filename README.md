@@ -1,4 +1,4 @@
-# Mandelbrot_Set
+# Mandelbrot Set
 
 __Project creation date:__ 05.05.2018
 
